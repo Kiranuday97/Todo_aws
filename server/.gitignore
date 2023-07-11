@@ -1,0 +1,12 @@
+
+
+# Ignore all files and directories that end with a .log
+*.log
+
+# Ignore all temporary files
+*.tmp
+*.DS_Store
+
+# Ignore all build artifacts
+target/
+node_modules/
